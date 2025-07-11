@@ -1,0 +1,109 @@
+Plan,Region,Month,ChurnRate
+Basic,North America,2024-07,0.046
+Basic,North America,2024-08,0.103
+Basic,North America,2024-09,0.054
+Basic,North America,2024-10,0.083
+Basic,North America,2024-11,0.087
+Basic,North America,2024-12,0.036
+Basic,North America,2025-01,0.146
+Basic,North America,2025-02,0.119
+Basic,North America,2025-03,0.142
+Basic,North America,2025-04,0.135
+Basic,North America,2025-05,0.094
+Basic,North America,2025-06,0.139
+Basic,EMEA,2024-07,0.022
+Basic,EMEA,2024-08,0.037
+Basic,EMEA,2024-09,0.016
+Basic,EMEA,2024-10,0.056
+Basic,EMEA,2024-11,0.064
+Basic,EMEA,2024-12,0.048
+Basic,EMEA,2025-01,0.126
+Basic,EMEA,2025-02,0.06
+Basic,EMEA,2025-03,0.049
+Basic,EMEA,2025-04,0.086
+Basic,EMEA,2025-05,0.03
+Basic,EMEA,2025-06,0.122
+Basic,APAC,2024-07,0.02
+Basic,APAC,2024-08,0.148
+Basic,APAC,2024-09,0.118
+Basic,APAC,2024-10,0.038
+Basic,APAC,2024-11,0.011
+Basic,APAC,2024-12,0.124
+Basic,APAC,2025-01,0.109
+Basic,APAC,2025-02,0.112
+Basic,APAC,2025-03,0.118
+Basic,APAC,2025-04,0.02
+Basic,APAC,2025-05,0.06
+Basic,APAC,2025-06,0.026
+Pro,North America,2024-07,0.131
+Pro,North America,2024-08,0.097
+Pro,North America,2024-09,0.056
+Pro,North America,2024-10,0.019
+Pro,North America,2024-11,0.054
+Pro,North America,2024-12,0.056
+Pro,North America,2025-01,0.112
+Pro,North America,2025-02,0.099
+Pro,North America,2025-03,0.134
+Pro,North America,2025-04,0.076
+Pro,North America,2025-05,0.027
+Pro,North America,2025-06,0.11
+Pro,EMEA,2024-07,0.117
+Pro,EMEA,2024-08,0.089
+Pro,EMEA,2024-09,0.118
+Pro,EMEA,2024-10,0.079
+Pro,EMEA,2024-11,0.083
+Pro,EMEA,2024-12,0.07
+Pro,EMEA,2025-01,0.014
+Pro,EMEA,2025-02,0.025
+Pro,EMEA,2025-03,0.014
+Pro,EMEA,2025-04,0.099
+Pro,EMEA,2025-05,0.054
+Pro,EMEA,2025-06,0.081
+Pro,APAC,2024-07,0.137
+Pro,APAC,2024-08,0.045
+Pro,APAC,2024-09,0.067
+Pro,APAC,2024-10,0.116
+Pro,APAC,2024-11,0.042
+Pro,APAC,2024-12,0.021
+Pro,APAC,2025-01,0.051
+Pro,APAC,2025-02,0.033
+Pro,APAC,2025-03,0.14
+Pro,APAC,2025-04,0.123
+Pro,APAC,2025-05,0.099
+Pro,APAC,2025-06,0.132
+Enterprise,North America,2024-07,0.123
+Enterprise,North America,2024-08,0.036
+Enterprise,North America,2024-09,0.135
+Enterprise,North America,2024-10,0.086
+Enterprise,North America,2024-11,0.123
+Enterprise,North America,2024-12,0.135
+Enterprise,North America,2025-01,0.055
+Enterprise,North America,2025-02,0.025
+Enterprise,North America,2025-03,0.042
+Enterprise,North America,2025-04,0.07
+Enterprise,North America,2025-05,0.125
+Enterprise,North America,2025-06,0.131
+Enterprise,EMEA,2024-07,0.011
+Enterprise,EMEA,2024-08,0.082
+Enterprise,EMEA,2024-09,0.068
+Enterprise,EMEA,2024-10,0.041
+Enterprise,EMEA,2024-11,0.027
+Enterprise,EMEA,2024-12,0.057
+Enterprise,EMEA,2025-01,0.142
+Enterprise,EMEA,2025-02,0.055
+Enterprise,EMEA,2025-03,0.083
+Enterprise,EMEA,2025-04,0.108
+Enterprise,EMEA,2025-05,0.061
+Enterprise,EMEA,2025-06,0.146
+Enterprise,APAC,2024-07,0.145
+Enterprise,APAC,2024-08,0.045
+Enterprise,APAC,2024-09,0.08
+Enterprise,APAC,2024-10,0.052
+Enterprise,APAC,2024-11,0.05
+Enterprise,APAC,2024-12,0.015
+Enterprise,APAC,2025-01,0.095
+Enterprise,APAC,2025-02,0.08
+Enterprise,APAC,2025-03,0.017
+Enterprise,APAC,2025-04,0.049
+Enterprise,APAC,2025-05,0.137
+Enterprise,APAC,2025-06,0.044
