@@ -1,0 +1,33 @@
+Company,Year,Metric,Male,Female
+Ryanair,2022,Mean Hourly Pay,108050.0,56950.0
+Ryanair,2022,Median Hourly Pay,45000.0,35000.0
+Ryanair,2022,Mean Bonus Pay,2100.8,1210.2
+Ryanair,2022,Median Bonus Pay,2000.0,1000.0
+Ryanair,2023,Mean Hourly Pay,108050.0,56950.0
+Ryanair,2023,Median Hourly Pay,45000.0,35000.0
+Ryanair,2023,Mean Bonus Pay,2417.0,991.8
+Ryanair,2023,Median Bonus Pay,2000.0,1000.0
+New Look,2022,Mean Hourly Pay,78788.9,86211.1
+New Look,2022,Median Hourly Pay,45000.0,35000.0
+New Look,2022,Mean Bonus Pay,1717.5,1570.8
+New Look,2022,Median Bonus Pay,2000.0,1000.0
+New Look,2023,Mean Hourly Pay,82932.3,82067.7
+New Look,2023,Median Hourly Pay,45000.0,35000.0
+New Look,2023,Mean Bonus Pay,1467.5,1068.9
+New Look,2023,Median Bonus Pay,2000.0,1000.0
+Odeon,2022,Mean Hourly Pay,92550.0,72450.0
+Odeon,2022,Median Hourly Pay,45000.0,35000.0
+Odeon,2022,Mean Bonus Pay,1725.4,1222.2
+Odeon,2022,Median Bonus Pay,2000.0,1000.0
+Odeon,2023,Mean Hourly Pay,92550.0,72450.0
+Odeon,2023,Median Hourly Pay,45000.0,35000.0
+Odeon,2023,Mean Bonus Pay,1821.0,1035.0
+Odeon,2023,Median Bonus Pay,2000.0,1000.0
+Northern Trust,2022,Mean Hourly Pay,77061.4,87938.6
+Northern Trust,2022,Median Hourly Pay,45000.0,35000.0
+Northern Trust,2022,Mean Bonus Pay,1547.4,1713.7
+Northern Trust,2022,Median Bonus Pay,2000.0,1000.0
+Northern Trust,2023,Mean Hourly Pay,76487.1,88512.9
+Northern Trust,2023,Median Hourly Pay,45000.0,35000.0
+Northern Trust,2023,Mean Bonus Pay,1613.8,1141.0
+Northern Trust,2023,Median Bonus Pay,2000.0,1000.0

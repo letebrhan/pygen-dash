@@ -1,0 +1,97 @@
+Company,Year,Source,Target,Value
+Ryanair,2022,Q4 - Lower,Bonus,1.0
+Ryanair,2022,Q4 - Lower,No Bonus,46.4
+Ryanair,2022,Q4 - Lower,Exit,52.6
+Ryanair,2022,Q3 - Lower Mid,Bonus,78.0
+Ryanair,2022,Q3 - Lower Mid,No Bonus,17.1
+Ryanair,2022,Q3 - Lower Mid,Exit,4.9
+Ryanair,2022,Q2 - Upper Mid,Bonus,61.9
+Ryanair,2022,Q2 - Upper Mid,No Bonus,31.1
+Ryanair,2022,Q2 - Upper Mid,Exit,7.0
+Ryanair,2022,Q1 - Upper,Bonus,21.9
+Ryanair,2022,Q1 - Upper,No Bonus,1.1
+Ryanair,2022,Q1 - Upper,Exit,77.0
+Ryanair,2023,Q4 - Lower,Bonus,51.9
+Ryanair,2023,Q4 - Lower,No Bonus,42.1
+Ryanair,2023,Q4 - Lower,Exit,6.0
+Ryanair,2023,Q3 - Lower Mid,Bonus,30.1
+Ryanair,2023,Q3 - Lower Mid,No Bonus,47.4
+Ryanair,2023,Q3 - Lower Mid,Exit,22.6
+Ryanair,2023,Q2 - Upper Mid,Bonus,66.8
+Ryanair,2023,Q2 - Upper Mid,No Bonus,24.5
+Ryanair,2023,Q2 - Upper Mid,Exit,8.7
+Ryanair,2023,Q1 - Upper,Bonus,40.7
+Ryanair,2023,Q1 - Upper,No Bonus,41.3
+Ryanair,2023,Q1 - Upper,Exit,18.0
+New Look,2022,Q4 - Lower,Bonus,24.0
+New Look,2022,Q4 - Lower,No Bonus,7.3
+New Look,2022,Q4 - Lower,Exit,68.8
+New Look,2022,Q3 - Lower Mid,Bonus,43.3
+New Look,2022,Q3 - Lower Mid,No Bonus,26.1
+New Look,2022,Q3 - Lower Mid,Exit,30.6
+New Look,2022,Q2 - Upper Mid,Bonus,42.9
+New Look,2022,Q2 - Upper Mid,No Bonus,22.4
+New Look,2022,Q2 - Upper Mid,Exit,34.7
+New Look,2022,Q1 - Upper,Bonus,91.1
+New Look,2022,Q1 - Upper,No Bonus,0.9
+New Look,2022,Q1 - Upper,Exit,7.9
+New Look,2023,Q4 - Lower,Bonus,24.8
+New Look,2023,Q4 - Lower,No Bonus,15.9
+New Look,2023,Q4 - Lower,Exit,59.3
+New Look,2023,Q3 - Lower Mid,Bonus,16.6
+New Look,2023,Q3 - Lower Mid,No Bonus,11.9
+New Look,2023,Q3 - Lower Mid,Exit,71.6
+New Look,2023,Q2 - Upper Mid,Bonus,7.1
+New Look,2023,Q2 - Upper Mid,No Bonus,92.6
+New Look,2023,Q2 - Upper Mid,Exit,0.3
+New Look,2023,Q1 - Upper,Bonus,60.8
+New Look,2023,Q1 - Upper,No Bonus,0.8
+New Look,2023,Q1 - Upper,Exit,38.5
+Odeon,2022,Q4 - Lower,Bonus,50.9
+Odeon,2022,Q4 - Lower,No Bonus,42.8
+Odeon,2022,Q4 - Lower,Exit,6.3
+Odeon,2022,Q3 - Lower Mid,Bonus,17.3
+Odeon,2022,Q3 - Lower Mid,No Bonus,34.0
+Odeon,2022,Q3 - Lower Mid,Exit,48.7
+Odeon,2022,Q2 - Upper Mid,Bonus,47.1
+Odeon,2022,Q2 - Upper Mid,No Bonus,22.5
+Odeon,2022,Q2 - Upper Mid,Exit,30.4
+Odeon,2022,Q1 - Upper,Bonus,80.7
+Odeon,2022,Q1 - Upper,No Bonus,2.2
+Odeon,2022,Q1 - Upper,Exit,17.1
+Odeon,2023,Q4 - Lower,Bonus,13.3
+Odeon,2023,Q4 - Lower,No Bonus,21.6
+Odeon,2023,Q4 - Lower,Exit,65.1
+Odeon,2023,Q3 - Lower Mid,Bonus,25.0
+Odeon,2023,Q3 - Lower Mid,No Bonus,3.2
+Odeon,2023,Q3 - Lower Mid,Exit,71.8
+Odeon,2023,Q2 - Upper Mid,Bonus,63.9
+Odeon,2023,Q2 - Upper Mid,No Bonus,26.4
+Odeon,2023,Q2 - Upper Mid,Exit,9.7
+Odeon,2023,Q1 - Upper,Bonus,47.7
+Odeon,2023,Q1 - Upper,No Bonus,29.2
+Odeon,2023,Q1 - Upper,Exit,23.0
+Northern Trust,2022,Q4 - Lower,Bonus,52.4
+Northern Trust,2022,Q4 - Lower,No Bonus,15.0
+Northern Trust,2022,Q4 - Lower,Exit,32.6
+Northern Trust,2022,Q3 - Lower Mid,Bonus,8.1
+Northern Trust,2022,Q3 - Lower Mid,No Bonus,12.2
+Northern Trust,2022,Q3 - Lower Mid,Exit,79.7
+Northern Trust,2022,Q2 - Upper Mid,Bonus,3.9
+Northern Trust,2022,Q2 - Upper Mid,No Bonus,26.6
+Northern Trust,2022,Q2 - Upper Mid,Exit,69.5
+Northern Trust,2022,Q1 - Upper,Bonus,2.4
+Northern Trust,2022,Q1 - Upper,No Bonus,18.2
+Northern Trust,2022,Q1 - Upper,Exit,79.4
+Northern Trust,2023,Q4 - Lower,Bonus,3.1
+Northern Trust,2023,Q4 - Lower,No Bonus,75.2
+Northern Trust,2023,Q4 - Lower,Exit,21.7
+Northern Trust,2023,Q3 - Lower Mid,Bonus,9.2
+Northern Trust,2023,Q3 - Lower Mid,No Bonus,5.7
+Northern Trust,2023,Q3 - Lower Mid,Exit,85.1
+Northern Trust,2023,Q2 - Upper Mid,Bonus,23.4
+Northern Trust,2023,Q2 - Upper Mid,No Bonus,72.8
+Northern Trust,2023,Q2 - Upper Mid,Exit,3.8
+Northern Trust,2023,Q1 - Upper,Bonus,13.9
+Northern Trust,2023,Q1 - Upper,No Bonus,28.5
+Northern Trust,2023,Q1 - Upper,Exit,57.5

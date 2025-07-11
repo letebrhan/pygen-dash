@@ -1,0 +1,65 @@
+Company,Year,Quartile,Gender,Percentage
+Ryanair,2022,Q4 - Lower,Male,89.0
+Ryanair,2022,Q4 - Lower,Female,11.0
+Ryanair,2022,Q3 - Lower Mid,Male,48.0
+Ryanair,2022,Q3 - Lower Mid,Female,52.0
+Ryanair,2022,Q2 - Upper Mid,Male,60.0
+Ryanair,2022,Q2 - Upper Mid,Female,40.0
+Ryanair,2022,Q1 - Upper,Male,70.0
+Ryanair,2022,Q1 - Upper,Female,30.0
+Ryanair,2023,Q4 - Lower,Male,89.0
+Ryanair,2023,Q4 - Lower,Female,11.0
+Ryanair,2023,Q3 - Lower Mid,Male,48.0
+Ryanair,2023,Q3 - Lower Mid,Female,52.0
+Ryanair,2023,Q2 - Upper Mid,Male,60.0
+Ryanair,2023,Q2 - Upper Mid,Female,40.0
+Ryanair,2023,Q1 - Upper,Male,70.0
+Ryanair,2023,Q1 - Upper,Female,30.0
+New Look,2022,Q4 - Lower,Male,43.1
+New Look,2022,Q4 - Lower,Female,56.9
+New Look,2022,Q3 - Lower Mid,Male,43.1
+New Look,2022,Q3 - Lower Mid,Female,56.9
+New Look,2022,Q2 - Upper Mid,Male,41.2
+New Look,2022,Q2 - Upper Mid,Female,58.8
+New Look,2022,Q1 - Upper,Male,57.3
+New Look,2022,Q1 - Upper,Female,42.7
+New Look,2023,Q4 - Lower,Male,40.4
+New Look,2023,Q4 - Lower,Female,59.6
+New Look,2023,Q3 - Lower Mid,Male,59.4
+New Look,2023,Q3 - Lower Mid,Female,40.6
+New Look,2023,Q2 - Upper Mid,Male,56.6
+New Look,2023,Q2 - Upper Mid,Female,43.4
+New Look,2023,Q1 - Upper,Male,44.2
+New Look,2023,Q1 - Upper,Female,55.8
+Odeon,2022,Q4 - Lower,Male,56.0
+Odeon,2022,Q4 - Lower,Female,44.0
+Odeon,2022,Q3 - Lower Mid,Male,59.0
+Odeon,2022,Q3 - Lower Mid,Female,41.0
+Odeon,2022,Q2 - Upper Mid,Male,62.0
+Odeon,2022,Q2 - Upper Mid,Female,38.0
+Odeon,2022,Q1 - Upper,Male,50.0
+Odeon,2022,Q1 - Upper,Female,50.0
+Odeon,2023,Q4 - Lower,Male,56.0
+Odeon,2023,Q4 - Lower,Female,44.0
+Odeon,2023,Q3 - Lower Mid,Male,59.0
+Odeon,2023,Q3 - Lower Mid,Female,41.0
+Odeon,2023,Q2 - Upper Mid,Male,62.0
+Odeon,2023,Q2 - Upper Mid,Female,38.0
+Odeon,2023,Q1 - Upper,Male,50.0
+Odeon,2023,Q1 - Upper,Female,50.0
+Northern Trust,2022,Q4 - Lower,Male,52.2
+Northern Trust,2022,Q4 - Lower,Female,47.8
+Northern Trust,2022,Q3 - Lower Mid,Male,42.8
+Northern Trust,2022,Q3 - Lower Mid,Female,57.2
+Northern Trust,2022,Q2 - Upper Mid,Male,45.8
+Northern Trust,2022,Q2 - Upper Mid,Female,54.2
+Northern Trust,2022,Q1 - Upper,Male,47.3
+Northern Trust,2022,Q1 - Upper,Female,52.7
+Northern Trust,2023,Q4 - Lower,Male,44.0
+Northern Trust,2023,Q4 - Lower,Female,56.0
+Northern Trust,2023,Q3 - Lower Mid,Male,50.3
+Northern Trust,2023,Q3 - Lower Mid,Female,49.7
+Northern Trust,2023,Q2 - Upper Mid,Male,51.8
+Northern Trust,2023,Q2 - Upper Mid,Female,48.2
+Northern Trust,2023,Q1 - Upper,Male,40.9
+Northern Trust,2023,Q1 - Upper,Female,59.1

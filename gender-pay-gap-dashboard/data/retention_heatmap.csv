@@ -1,0 +1,769 @@
+Company,Year,Gender,Quartile,Month,Retention (%)
+Ryanair,2022,Male,Q4 - Lower,2022-01,61.4
+Ryanair,2022,Male,Q4 - Lower,2022-02,73.2
+Ryanair,2022,Male,Q4 - Lower,2022-03,81.7
+Ryanair,2022,Male,Q4 - Lower,2022-04,73.7
+Ryanair,2022,Male,Q4 - Lower,2022-05,68.9
+Ryanair,2022,Male,Q4 - Lower,2022-06,72.2
+Ryanair,2022,Male,Q4 - Lower,2022-07,62.7
+Ryanair,2022,Male,Q4 - Lower,2022-08,59.8
+Ryanair,2022,Male,Q4 - Lower,2022-09,71.6
+Ryanair,2022,Male,Q4 - Lower,2022-10,65.1
+Ryanair,2022,Male,Q4 - Lower,2022-11,61.0
+Ryanair,2022,Male,Q4 - Lower,2022-12,63.4
+Ryanair,2022,Male,Q3 - Lower Mid,2022-01,77.9
+Ryanair,2022,Male,Q3 - Lower Mid,2022-02,74.4
+Ryanair,2022,Male,Q3 - Lower Mid,2022-03,72.9
+Ryanair,2022,Male,Q3 - Lower Mid,2022-04,79.3
+Ryanair,2022,Male,Q3 - Lower Mid,2022-05,81.4
+Ryanair,2022,Male,Q3 - Lower Mid,2022-06,80.9
+Ryanair,2022,Male,Q3 - Lower Mid,2022-07,72.1
+Ryanair,2022,Male,Q3 - Lower Mid,2022-08,74.7
+Ryanair,2022,Male,Q3 - Lower Mid,2022-09,77.9
+Ryanair,2022,Male,Q3 - Lower Mid,2022-10,81.2
+Ryanair,2022,Male,Q3 - Lower Mid,2022-11,73.9
+Ryanair,2022,Male,Q3 - Lower Mid,2022-12,75.4
+Ryanair,2022,Male,Q2 - Upper Mid,2022-01,75.2
+Ryanair,2022,Male,Q2 - Upper Mid,2022-02,64.8
+Ryanair,2022,Male,Q2 - Upper Mid,2022-03,73.5
+Ryanair,2022,Male,Q2 - Upper Mid,2022-04,70.8
+Ryanair,2022,Male,Q2 - Upper Mid,2022-05,64.1
+Ryanair,2022,Male,Q2 - Upper Mid,2022-06,69.0
+Ryanair,2022,Male,Q2 - Upper Mid,2022-07,74.2
+Ryanair,2022,Male,Q2 - Upper Mid,2022-08,73.3
+Ryanair,2022,Male,Q2 - Upper Mid,2022-09,76.8
+Ryanair,2022,Male,Q2 - Upper Mid,2022-10,71.0
+Ryanair,2022,Male,Q2 - Upper Mid,2022-11,86.2
+Ryanair,2022,Male,Q2 - Upper Mid,2022-12,64.7
+Ryanair,2022,Male,Q1 - Upper,2022-01,73.3
+Ryanair,2022,Male,Q1 - Upper,2022-02,71.3
+Ryanair,2022,Male,Q1 - Upper,2022-03,73.3
+Ryanair,2022,Male,Q1 - Upper,2022-04,62.9
+Ryanair,2022,Male,Q1 - Upper,2022-05,71.7
+Ryanair,2022,Male,Q1 - Upper,2022-06,74.6
+Ryanair,2022,Male,Q1 - Upper,2022-07,80.2
+Ryanair,2022,Male,Q1 - Upper,2022-08,70.2
+Ryanair,2022,Male,Q1 - Upper,2022-09,68.8
+Ryanair,2022,Male,Q1 - Upper,2022-10,70.3
+Ryanair,2022,Male,Q1 - Upper,2022-11,77.4
+Ryanair,2022,Male,Q1 - Upper,2022-12,74.5
+Ryanair,2022,Female,Q4 - Lower,2022-01,91.0
+Ryanair,2022,Female,Q4 - Lower,2022-02,85.0
+Ryanair,2022,Female,Q4 - Lower,2022-03,82.6
+Ryanair,2022,Female,Q4 - Lower,2022-04,87.5
+Ryanair,2022,Female,Q4 - Lower,2022-05,82.8
+Ryanair,2022,Female,Q4 - Lower,2022-06,82.3
+Ryanair,2022,Female,Q4 - Lower,2022-07,90.5
+Ryanair,2022,Female,Q4 - Lower,2022-08,82.7
+Ryanair,2022,Female,Q4 - Lower,2022-09,70.8
+Ryanair,2022,Female,Q4 - Lower,2022-10,85.8
+Ryanair,2022,Female,Q4 - Lower,2022-11,82.1
+Ryanair,2022,Female,Q4 - Lower,2022-12,82.7
+Ryanair,2022,Female,Q3 - Lower Mid,2022-01,69.3
+Ryanair,2022,Female,Q3 - Lower Mid,2022-02,72.1
+Ryanair,2022,Female,Q3 - Lower Mid,2022-03,79.6
+Ryanair,2022,Female,Q3 - Lower Mid,2022-04,71.0
+Ryanair,2022,Female,Q3 - Lower Mid,2022-05,71.4
+Ryanair,2022,Female,Q3 - Lower Mid,2022-06,69.8
+Ryanair,2022,Female,Q3 - Lower Mid,2022-07,60.5
+Ryanair,2022,Female,Q3 - Lower Mid,2022-08,70.0
+Ryanair,2022,Female,Q3 - Lower Mid,2022-09,70.4
+Ryanair,2022,Female,Q3 - Lower Mid,2022-10,82.4
+Ryanair,2022,Female,Q3 - Lower Mid,2022-11,69.2
+Ryanair,2022,Female,Q3 - Lower Mid,2022-12,71.6
+Ryanair,2022,Female,Q2 - Upper Mid,2022-01,66.0
+Ryanair,2022,Female,Q2 - Upper Mid,2022-02,64.3
+Ryanair,2022,Female,Q2 - Upper Mid,2022-03,68.2
+Ryanair,2022,Female,Q2 - Upper Mid,2022-04,58.6
+Ryanair,2022,Female,Q2 - Upper Mid,2022-05,60.5
+Ryanair,2022,Female,Q2 - Upper Mid,2022-06,68.2
+Ryanair,2022,Female,Q2 - Upper Mid,2022-07,60.3
+Ryanair,2022,Female,Q2 - Upper Mid,2022-08,71.3
+Ryanair,2022,Female,Q2 - Upper Mid,2022-09,71.4
+Ryanair,2022,Female,Q2 - Upper Mid,2022-10,71.3
+Ryanair,2022,Female,Q2 - Upper Mid,2022-11,59.9
+Ryanair,2022,Female,Q2 - Upper Mid,2022-12,64.7
+Ryanair,2022,Female,Q1 - Upper,2022-01,80.1
+Ryanair,2022,Female,Q1 - Upper,2022-02,82.2
+Ryanair,2022,Female,Q1 - Upper,2022-03,85.6
+Ryanair,2022,Female,Q1 - Upper,2022-04,82.5
+Ryanair,2022,Female,Q1 - Upper,2022-05,77.3
+Ryanair,2022,Female,Q1 - Upper,2022-06,85.4
+Ryanair,2022,Female,Q1 - Upper,2022-07,79.7
+Ryanair,2022,Female,Q1 - Upper,2022-08,87.4
+Ryanair,2022,Female,Q1 - Upper,2022-09,80.5
+Ryanair,2022,Female,Q1 - Upper,2022-10,92.8
+Ryanair,2022,Female,Q1 - Upper,2022-11,81.1
+Ryanair,2022,Female,Q1 - Upper,2022-12,83.4
+Ryanair,2023,Male,Q4 - Lower,2023-01,76.7
+Ryanair,2023,Male,Q4 - Lower,2023-02,65.8
+Ryanair,2023,Male,Q4 - Lower,2023-03,73.3
+Ryanair,2023,Male,Q4 - Lower,2023-04,76.3
+Ryanair,2023,Male,Q4 - Lower,2023-05,71.3
+Ryanair,2023,Male,Q4 - Lower,2023-06,74.4
+Ryanair,2023,Male,Q4 - Lower,2023-07,71.0
+Ryanair,2023,Male,Q4 - Lower,2023-08,64.1
+Ryanair,2023,Male,Q4 - Lower,2023-09,75.4
+Ryanair,2023,Male,Q4 - Lower,2023-10,76.8
+Ryanair,2023,Male,Q4 - Lower,2023-11,73.8
+Ryanair,2023,Male,Q4 - Lower,2023-12,65.4
+Ryanair,2023,Male,Q3 - Lower Mid,2023-01,72.9
+Ryanair,2023,Male,Q3 - Lower Mid,2023-02,63.0
+Ryanair,2023,Male,Q3 - Lower Mid,2023-03,71.9
+Ryanair,2023,Male,Q3 - Lower Mid,2023-04,69.2
+Ryanair,2023,Male,Q3 - Lower Mid,2023-05,71.2
+Ryanair,2023,Male,Q3 - Lower Mid,2023-06,76.6
+Ryanair,2023,Male,Q3 - Lower Mid,2023-07,65.9
+Ryanair,2023,Male,Q3 - Lower Mid,2023-08,63.3
+Ryanair,2023,Male,Q3 - Lower Mid,2023-09,62.7
+Ryanair,2023,Male,Q3 - Lower Mid,2023-10,63.0
+Ryanair,2023,Male,Q3 - Lower Mid,2023-11,66.7
+Ryanair,2023,Male,Q3 - Lower Mid,2023-12,68.8
+Ryanair,2023,Male,Q2 - Upper Mid,2023-01,92.8
+Ryanair,2023,Male,Q2 - Upper Mid,2023-02,89.5
+Ryanair,2023,Male,Q2 - Upper Mid,2023-03,100.0
+Ryanair,2023,Male,Q2 - Upper Mid,2023-04,87.2
+Ryanair,2023,Male,Q2 - Upper Mid,2023-05,79.7
+Ryanair,2023,Male,Q2 - Upper Mid,2023-06,86.6
+Ryanair,2023,Male,Q2 - Upper Mid,2023-07,81.9
+Ryanair,2023,Male,Q2 - Upper Mid,2023-08,91.6
+Ryanair,2023,Male,Q2 - Upper Mid,2023-09,87.0
+Ryanair,2023,Male,Q2 - Upper Mid,2023-10,86.1
+Ryanair,2023,Male,Q2 - Upper Mid,2023-11,86.1
+Ryanair,2023,Male,Q2 - Upper Mid,2023-12,90.5
+Ryanair,2023,Male,Q1 - Upper,2023-01,84.8
+Ryanair,2023,Male,Q1 - Upper,2023-02,81.4
+Ryanair,2023,Male,Q1 - Upper,2023-03,86.8
+Ryanair,2023,Male,Q1 - Upper,2023-04,93.3
+Ryanair,2023,Male,Q1 - Upper,2023-05,90.1
+Ryanair,2023,Male,Q1 - Upper,2023-06,82.8
+Ryanair,2023,Male,Q1 - Upper,2023-07,89.9
+Ryanair,2023,Male,Q1 - Upper,2023-08,90.9
+Ryanair,2023,Male,Q1 - Upper,2023-09,84.6
+Ryanair,2023,Male,Q1 - Upper,2023-10,89.8
+Ryanair,2023,Male,Q1 - Upper,2023-11,89.3
+Ryanair,2023,Male,Q1 - Upper,2023-12,83.3
+Ryanair,2023,Female,Q4 - Lower,2023-01,90.7
+Ryanair,2023,Female,Q4 - Lower,2023-02,91.7
+Ryanair,2023,Female,Q4 - Lower,2023-03,81.5
+Ryanair,2023,Female,Q4 - Lower,2023-04,93.2
+Ryanair,2023,Female,Q4 - Lower,2023-05,90.8
+Ryanair,2023,Female,Q4 - Lower,2023-06,83.3
+Ryanair,2023,Female,Q4 - Lower,2023-07,87.8
+Ryanair,2023,Female,Q4 - Lower,2023-08,87.6
+Ryanair,2023,Female,Q4 - Lower,2023-09,86.4
+Ryanair,2023,Female,Q4 - Lower,2023-10,90.7
+Ryanair,2023,Female,Q4 - Lower,2023-11,93.5
+Ryanair,2023,Female,Q4 - Lower,2023-12,86.4
+Ryanair,2023,Female,Q3 - Lower Mid,2023-01,84.3
+Ryanair,2023,Female,Q3 - Lower Mid,2023-02,82.8
+Ryanair,2023,Female,Q3 - Lower Mid,2023-03,77.9
+Ryanair,2023,Female,Q3 - Lower Mid,2023-04,83.3
+Ryanair,2023,Female,Q3 - Lower Mid,2023-05,75.6
+Ryanair,2023,Female,Q3 - Lower Mid,2023-06,78.3
+Ryanair,2023,Female,Q3 - Lower Mid,2023-07,77.1
+Ryanair,2023,Female,Q3 - Lower Mid,2023-08,79.9
+Ryanair,2023,Female,Q3 - Lower Mid,2023-09,91.1
+Ryanair,2023,Female,Q3 - Lower Mid,2023-10,70.2
+Ryanair,2023,Female,Q3 - Lower Mid,2023-11,82.9
+Ryanair,2023,Female,Q3 - Lower Mid,2023-12,71.4
+Ryanair,2023,Female,Q2 - Upper Mid,2023-01,56.4
+Ryanair,2023,Female,Q2 - Upper Mid,2023-02,59.2
+Ryanair,2023,Female,Q2 - Upper Mid,2023-03,68.7
+Ryanair,2023,Female,Q2 - Upper Mid,2023-04,61.6
+Ryanair,2023,Female,Q2 - Upper Mid,2023-05,63.7
+Ryanair,2023,Female,Q2 - Upper Mid,2023-06,54.6
+Ryanair,2023,Female,Q2 - Upper Mid,2023-07,72.9
+Ryanair,2023,Female,Q2 - Upper Mid,2023-08,70.1
+Ryanair,2023,Female,Q2 - Upper Mid,2023-09,67.7
+Ryanair,2023,Female,Q2 - Upper Mid,2023-10,65.1
+Ryanair,2023,Female,Q2 - Upper Mid,2023-11,61.0
+Ryanair,2023,Female,Q2 - Upper Mid,2023-12,63.1
+Ryanair,2023,Female,Q1 - Upper,2023-01,66.4
+Ryanair,2023,Female,Q1 - Upper,2023-02,74.0
+Ryanair,2023,Female,Q1 - Upper,2023-03,65.7
+Ryanair,2023,Female,Q1 - Upper,2023-04,69.1
+Ryanair,2023,Female,Q1 - Upper,2023-05,72.2
+Ryanair,2023,Female,Q1 - Upper,2023-06,74.0
+Ryanair,2023,Female,Q1 - Upper,2023-07,63.7
+Ryanair,2023,Female,Q1 - Upper,2023-08,68.0
+Ryanair,2023,Female,Q1 - Upper,2023-09,67.3
+Ryanair,2023,Female,Q1 - Upper,2023-10,66.4
+Ryanair,2023,Female,Q1 - Upper,2023-11,78.5
+Ryanair,2023,Female,Q1 - Upper,2023-12,71.7
+New Look,2022,Male,Q4 - Lower,2022-01,60.2
+New Look,2022,Male,Q4 - Lower,2022-02,70.7
+New Look,2022,Male,Q4 - Lower,2022-03,61.3
+New Look,2022,Male,Q4 - Lower,2022-04,56.7
+New Look,2022,Male,Q4 - Lower,2022-05,54.9
+New Look,2022,Male,Q4 - Lower,2022-06,60.9
+New Look,2022,Male,Q4 - Lower,2022-07,51.4
+New Look,2022,Male,Q4 - Lower,2022-08,54.9
+New Look,2022,Male,Q4 - Lower,2022-09,69.1
+New Look,2022,Male,Q4 - Lower,2022-10,68.0
+New Look,2022,Male,Q4 - Lower,2022-11,60.7
+New Look,2022,Male,Q4 - Lower,2022-12,59.1
+New Look,2022,Male,Q3 - Lower Mid,2022-01,84.6
+New Look,2022,Male,Q3 - Lower Mid,2022-02,78.8
+New Look,2022,Male,Q3 - Lower Mid,2022-03,73.9
+New Look,2022,Male,Q3 - Lower Mid,2022-04,81.1
+New Look,2022,Male,Q3 - Lower Mid,2022-05,79.8
+New Look,2022,Male,Q3 - Lower Mid,2022-06,75.8
+New Look,2022,Male,Q3 - Lower Mid,2022-07,79.1
+New Look,2022,Male,Q3 - Lower Mid,2022-08,76.8
+New Look,2022,Male,Q3 - Lower Mid,2022-09,79.3
+New Look,2022,Male,Q3 - Lower Mid,2022-10,82.1
+New Look,2022,Male,Q3 - Lower Mid,2022-11,86.7
+New Look,2022,Male,Q3 - Lower Mid,2022-12,72.6
+New Look,2022,Male,Q2 - Upper Mid,2022-01,77.2
+New Look,2022,Male,Q2 - Upper Mid,2022-02,74.1
+New Look,2022,Male,Q2 - Upper Mid,2022-03,75.9
+New Look,2022,Male,Q2 - Upper Mid,2022-04,73.2
+New Look,2022,Male,Q2 - Upper Mid,2022-05,71.3
+New Look,2022,Male,Q2 - Upper Mid,2022-06,74.8
+New Look,2022,Male,Q2 - Upper Mid,2022-07,78.2
+New Look,2022,Male,Q2 - Upper Mid,2022-08,71.4
+New Look,2022,Male,Q2 - Upper Mid,2022-09,70.6
+New Look,2022,Male,Q2 - Upper Mid,2022-10,72.0
+New Look,2022,Male,Q2 - Upper Mid,2022-11,78.5
+New Look,2022,Male,Q2 - Upper Mid,2022-12,81.0
+New Look,2022,Male,Q1 - Upper,2022-01,90.4
+New Look,2022,Male,Q1 - Upper,2022-02,89.5
+New Look,2022,Male,Q1 - Upper,2022-03,82.2
+New Look,2022,Male,Q1 - Upper,2022-04,83.5
+New Look,2022,Male,Q1 - Upper,2022-05,90.1
+New Look,2022,Male,Q1 - Upper,2022-06,89.4
+New Look,2022,Male,Q1 - Upper,2022-07,86.2
+New Look,2022,Male,Q1 - Upper,2022-08,86.9
+New Look,2022,Male,Q1 - Upper,2022-09,92.7
+New Look,2022,Male,Q1 - Upper,2022-10,83.4
+New Look,2022,Male,Q1 - Upper,2022-11,89.1
+New Look,2022,Male,Q1 - Upper,2022-12,85.3
+New Look,2022,Female,Q4 - Lower,2022-01,93.5
+New Look,2022,Female,Q4 - Lower,2022-02,83.6
+New Look,2022,Female,Q4 - Lower,2022-03,83.7
+New Look,2022,Female,Q4 - Lower,2022-04,87.1
+New Look,2022,Female,Q4 - Lower,2022-05,85.8
+New Look,2022,Female,Q4 - Lower,2022-06,90.4
+New Look,2022,Female,Q4 - Lower,2022-07,83.1
+New Look,2022,Female,Q4 - Lower,2022-08,90.5
+New Look,2022,Female,Q4 - Lower,2022-09,84.6
+New Look,2022,Female,Q4 - Lower,2022-10,90.0
+New Look,2022,Female,Q4 - Lower,2022-11,84.4
+New Look,2022,Female,Q4 - Lower,2022-12,82.7
+New Look,2022,Female,Q3 - Lower Mid,2022-01,89.0
+New Look,2022,Female,Q3 - Lower Mid,2022-02,91.5
+New Look,2022,Female,Q3 - Lower Mid,2022-03,84.4
+New Look,2022,Female,Q3 - Lower Mid,2022-04,99.0
+New Look,2022,Female,Q3 - Lower Mid,2022-05,83.5
+New Look,2022,Female,Q3 - Lower Mid,2022-06,82.4
+New Look,2022,Female,Q3 - Lower Mid,2022-07,94.3
+New Look,2022,Female,Q3 - Lower Mid,2022-08,92.5
+New Look,2022,Female,Q3 - Lower Mid,2022-09,91.6
+New Look,2022,Female,Q3 - Lower Mid,2022-10,91.6
+New Look,2022,Female,Q3 - Lower Mid,2022-11,88.4
+New Look,2022,Female,Q3 - Lower Mid,2022-12,84.0
+New Look,2022,Female,Q2 - Upper Mid,2022-01,51.3
+New Look,2022,Female,Q2 - Upper Mid,2022-02,70.6
+New Look,2022,Female,Q2 - Upper Mid,2022-03,60.2
+New Look,2022,Female,Q2 - Upper Mid,2022-04,65.7
+New Look,2022,Female,Q2 - Upper Mid,2022-05,64.8
+New Look,2022,Female,Q2 - Upper Mid,2022-06,68.5
+New Look,2022,Female,Q2 - Upper Mid,2022-07,59.6
+New Look,2022,Female,Q2 - Upper Mid,2022-08,62.7
+New Look,2022,Female,Q2 - Upper Mid,2022-09,64.5
+New Look,2022,Female,Q2 - Upper Mid,2022-10,66.1
+New Look,2022,Female,Q2 - Upper Mid,2022-11,67.5
+New Look,2022,Female,Q2 - Upper Mid,2022-12,59.3
+New Look,2022,Female,Q1 - Upper,2022-01,84.8
+New Look,2022,Female,Q1 - Upper,2022-02,87.4
+New Look,2022,Female,Q1 - Upper,2022-03,90.0
+New Look,2022,Female,Q1 - Upper,2022-04,95.8
+New Look,2022,Female,Q1 - Upper,2022-05,92.7
+New Look,2022,Female,Q1 - Upper,2022-06,87.6
+New Look,2022,Female,Q1 - Upper,2022-07,88.3
+New Look,2022,Female,Q1 - Upper,2022-08,83.4
+New Look,2022,Female,Q1 - Upper,2022-09,88.3
+New Look,2022,Female,Q1 - Upper,2022-10,87.0
+New Look,2022,Female,Q1 - Upper,2022-11,90.0
+New Look,2022,Female,Q1 - Upper,2022-12,84.3
+New Look,2023,Male,Q4 - Lower,2023-01,78.2
+New Look,2023,Male,Q4 - Lower,2023-02,76.1
+New Look,2023,Male,Q4 - Lower,2023-03,87.2
+New Look,2023,Male,Q4 - Lower,2023-04,77.9
+New Look,2023,Male,Q4 - Lower,2023-05,73.7
+New Look,2023,Male,Q4 - Lower,2023-06,85.1
+New Look,2023,Male,Q4 - Lower,2023-07,81.8
+New Look,2023,Male,Q4 - Lower,2023-08,84.9
+New Look,2023,Male,Q4 - Lower,2023-09,75.3
+New Look,2023,Male,Q4 - Lower,2023-10,80.7
+New Look,2023,Male,Q4 - Lower,2023-11,68.6
+New Look,2023,Male,Q4 - Lower,2023-12,79.8
+New Look,2023,Male,Q3 - Lower Mid,2023-01,55.0
+New Look,2023,Male,Q3 - Lower Mid,2023-02,63.0
+New Look,2023,Male,Q3 - Lower Mid,2023-03,61.8
+New Look,2023,Male,Q3 - Lower Mid,2023-04,66.4
+New Look,2023,Male,Q3 - Lower Mid,2023-05,67.4
+New Look,2023,Male,Q3 - Lower Mid,2023-06,75.0
+New Look,2023,Male,Q3 - Lower Mid,2023-07,70.4
+New Look,2023,Male,Q3 - Lower Mid,2023-08,62.8
+New Look,2023,Male,Q3 - Lower Mid,2023-09,61.2
+New Look,2023,Male,Q3 - Lower Mid,2023-10,68.1
+New Look,2023,Male,Q3 - Lower Mid,2023-11,59.0
+New Look,2023,Male,Q3 - Lower Mid,2023-12,74.8
+New Look,2023,Male,Q2 - Upper Mid,2023-01,87.6
+New Look,2023,Male,Q2 - Upper Mid,2023-02,86.6
+New Look,2023,Male,Q2 - Upper Mid,2023-03,89.5
+New Look,2023,Male,Q2 - Upper Mid,2023-04,82.5
+New Look,2023,Male,Q2 - Upper Mid,2023-05,89.7
+New Look,2023,Male,Q2 - Upper Mid,2023-06,87.5
+New Look,2023,Male,Q2 - Upper Mid,2023-07,89.4
+New Look,2023,Male,Q2 - Upper Mid,2023-08,89.4
+New Look,2023,Male,Q2 - Upper Mid,2023-09,75.7
+New Look,2023,Male,Q2 - Upper Mid,2023-10,83.5
+New Look,2023,Male,Q2 - Upper Mid,2023-11,87.4
+New Look,2023,Male,Q2 - Upper Mid,2023-12,87.7
+New Look,2023,Male,Q1 - Upper,2023-01,86.0
+New Look,2023,Male,Q1 - Upper,2023-02,86.2
+New Look,2023,Male,Q1 - Upper,2023-03,83.7
+New Look,2023,Male,Q1 - Upper,2023-04,89.1
+New Look,2023,Male,Q1 - Upper,2023-05,80.6
+New Look,2023,Male,Q1 - Upper,2023-06,85.2
+New Look,2023,Male,Q1 - Upper,2023-07,86.5
+New Look,2023,Male,Q1 - Upper,2023-08,88.5
+New Look,2023,Male,Q1 - Upper,2023-09,89.5
+New Look,2023,Male,Q1 - Upper,2023-10,80.3
+New Look,2023,Male,Q1 - Upper,2023-11,78.3
+New Look,2023,Male,Q1 - Upper,2023-12,92.3
+New Look,2023,Female,Q4 - Lower,2023-01,64.6
+New Look,2023,Female,Q4 - Lower,2023-02,73.6
+New Look,2023,Female,Q4 - Lower,2023-03,64.0
+New Look,2023,Female,Q4 - Lower,2023-04,71.2
+New Look,2023,Female,Q4 - Lower,2023-05,64.3
+New Look,2023,Female,Q4 - Lower,2023-06,69.2
+New Look,2023,Female,Q4 - Lower,2023-07,68.5
+New Look,2023,Female,Q4 - Lower,2023-08,64.2
+New Look,2023,Female,Q4 - Lower,2023-09,58.3
+New Look,2023,Female,Q4 - Lower,2023-10,62.1
+New Look,2023,Female,Q4 - Lower,2023-11,70.9
+New Look,2023,Female,Q4 - Lower,2023-12,67.8
+New Look,2023,Female,Q3 - Lower Mid,2023-01,71.7
+New Look,2023,Female,Q3 - Lower Mid,2023-02,57.6
+New Look,2023,Female,Q3 - Lower Mid,2023-03,60.5
+New Look,2023,Female,Q3 - Lower Mid,2023-04,56.2
+New Look,2023,Female,Q3 - Lower Mid,2023-05,65.0
+New Look,2023,Female,Q3 - Lower Mid,2023-06,70.0
+New Look,2023,Female,Q3 - Lower Mid,2023-07,73.9
+New Look,2023,Female,Q3 - Lower Mid,2023-08,66.8
+New Look,2023,Female,Q3 - Lower Mid,2023-09,74.5
+New Look,2023,Female,Q3 - Lower Mid,2023-10,59.5
+New Look,2023,Female,Q3 - Lower Mid,2023-11,57.9
+New Look,2023,Female,Q3 - Lower Mid,2023-12,66.1
+New Look,2023,Female,Q2 - Upper Mid,2023-01,73.7
+New Look,2023,Female,Q2 - Upper Mid,2023-02,75.8
+New Look,2023,Female,Q2 - Upper Mid,2023-03,79.4
+New Look,2023,Female,Q2 - Upper Mid,2023-04,66.6
+New Look,2023,Female,Q2 - Upper Mid,2023-05,73.2
+New Look,2023,Female,Q2 - Upper Mid,2023-06,73.4
+New Look,2023,Female,Q2 - Upper Mid,2023-07,68.3
+New Look,2023,Female,Q2 - Upper Mid,2023-08,76.2
+New Look,2023,Female,Q2 - Upper Mid,2023-09,77.5
+New Look,2023,Female,Q2 - Upper Mid,2023-10,72.3
+New Look,2023,Female,Q2 - Upper Mid,2023-11,84.0
+New Look,2023,Female,Q2 - Upper Mid,2023-12,72.2
+New Look,2023,Female,Q1 - Upper,2023-01,62.5
+New Look,2023,Female,Q1 - Upper,2023-02,61.2
+New Look,2023,Female,Q1 - Upper,2023-03,64.6
+New Look,2023,Female,Q1 - Upper,2023-04,60.0
+New Look,2023,Female,Q1 - Upper,2023-05,62.4
+New Look,2023,Female,Q1 - Upper,2023-06,59.2
+New Look,2023,Female,Q1 - Upper,2023-07,75.0
+New Look,2023,Female,Q1 - Upper,2023-08,65.3
+New Look,2023,Female,Q1 - Upper,2023-09,61.7
+New Look,2023,Female,Q1 - Upper,2023-10,66.2
+New Look,2023,Female,Q1 - Upper,2023-11,64.6
+New Look,2023,Female,Q1 - Upper,2023-12,64.1
+Odeon,2022,Male,Q4 - Lower,2022-01,81.5
+Odeon,2022,Male,Q4 - Lower,2022-02,86.2
+Odeon,2022,Male,Q4 - Lower,2022-03,76.5
+Odeon,2022,Male,Q4 - Lower,2022-04,81.8
+Odeon,2022,Male,Q4 - Lower,2022-05,89.0
+Odeon,2022,Male,Q4 - Lower,2022-06,69.1
+Odeon,2022,Male,Q4 - Lower,2022-07,77.3
+Odeon,2022,Male,Q4 - Lower,2022-08,76.9
+Odeon,2022,Male,Q4 - Lower,2022-09,80.5
+Odeon,2022,Male,Q4 - Lower,2022-10,81.2
+Odeon,2022,Male,Q4 - Lower,2022-11,76.1
+Odeon,2022,Male,Q4 - Lower,2022-12,78.1
+Odeon,2022,Male,Q3 - Lower Mid,2022-01,78.3
+Odeon,2022,Male,Q3 - Lower Mid,2022-02,74.2
+Odeon,2022,Male,Q3 - Lower Mid,2022-03,69.8
+Odeon,2022,Male,Q3 - Lower Mid,2022-04,77.2
+Odeon,2022,Male,Q3 - Lower Mid,2022-05,70.2
+Odeon,2022,Male,Q3 - Lower Mid,2022-06,65.5
+Odeon,2022,Male,Q3 - Lower Mid,2022-07,77.4
+Odeon,2022,Male,Q3 - Lower Mid,2022-08,72.5
+Odeon,2022,Male,Q3 - Lower Mid,2022-09,64.6
+Odeon,2022,Male,Q3 - Lower Mid,2022-10,68.9
+Odeon,2022,Male,Q3 - Lower Mid,2022-11,65.4
+Odeon,2022,Male,Q3 - Lower Mid,2022-12,62.9
+Odeon,2022,Male,Q2 - Upper Mid,2022-01,69.8
+Odeon,2022,Male,Q2 - Upper Mid,2022-02,84.1
+Odeon,2022,Male,Q2 - Upper Mid,2022-03,79.5
+Odeon,2022,Male,Q2 - Upper Mid,2022-04,80.0
+Odeon,2022,Male,Q2 - Upper Mid,2022-05,77.6
+Odeon,2022,Male,Q2 - Upper Mid,2022-06,78.2
+Odeon,2022,Male,Q2 - Upper Mid,2022-07,77.1
+Odeon,2022,Male,Q2 - Upper Mid,2022-08,76.2
+Odeon,2022,Male,Q2 - Upper Mid,2022-09,77.5
+Odeon,2022,Male,Q2 - Upper Mid,2022-10,77.3
+Odeon,2022,Male,Q2 - Upper Mid,2022-11,75.2
+Odeon,2022,Male,Q2 - Upper Mid,2022-12,76.7
+Odeon,2022,Male,Q1 - Upper,2022-01,87.1
+Odeon,2022,Male,Q1 - Upper,2022-02,82.7
+Odeon,2022,Male,Q1 - Upper,2022-03,88.3
+Odeon,2022,Male,Q1 - Upper,2022-04,86.7
+Odeon,2022,Male,Q1 - Upper,2022-05,85.7
+Odeon,2022,Male,Q1 - Upper,2022-06,82.4
+Odeon,2022,Male,Q1 - Upper,2022-07,84.0
+Odeon,2022,Male,Q1 - Upper,2022-08,90.7
+Odeon,2022,Male,Q1 - Upper,2022-09,89.4
+Odeon,2022,Male,Q1 - Upper,2022-10,82.0
+Odeon,2022,Male,Q1 - Upper,2022-11,87.4
+Odeon,2022,Male,Q1 - Upper,2022-12,90.7
+Odeon,2022,Female,Q4 - Lower,2022-01,81.8
+Odeon,2022,Female,Q4 - Lower,2022-02,73.3
+Odeon,2022,Female,Q4 - Lower,2022-03,74.3
+Odeon,2022,Female,Q4 - Lower,2022-04,72.1
+Odeon,2022,Female,Q4 - Lower,2022-05,78.5
+Odeon,2022,Female,Q4 - Lower,2022-06,63.4
+Odeon,2022,Female,Q4 - Lower,2022-07,74.9
+Odeon,2022,Female,Q4 - Lower,2022-08,75.6
+Odeon,2022,Female,Q4 - Lower,2022-09,69.5
+Odeon,2022,Female,Q4 - Lower,2022-10,81.1
+Odeon,2022,Female,Q4 - Lower,2022-11,71.5
+Odeon,2022,Female,Q4 - Lower,2022-12,78.5
+Odeon,2022,Female,Q3 - Lower Mid,2022-01,71.2
+Odeon,2022,Female,Q3 - Lower Mid,2022-02,74.7
+Odeon,2022,Female,Q3 - Lower Mid,2022-03,70.1
+Odeon,2022,Female,Q3 - Lower Mid,2022-04,72.5
+Odeon,2022,Female,Q3 - Lower Mid,2022-05,79.5
+Odeon,2022,Female,Q3 - Lower Mid,2022-06,71.5
+Odeon,2022,Female,Q3 - Lower Mid,2022-07,78.6
+Odeon,2022,Female,Q3 - Lower Mid,2022-08,68.8
+Odeon,2022,Female,Q3 - Lower Mid,2022-09,77.1
+Odeon,2022,Female,Q3 - Lower Mid,2022-10,81.6
+Odeon,2022,Female,Q3 - Lower Mid,2022-11,62.1
+Odeon,2022,Female,Q3 - Lower Mid,2022-12,70.4
+Odeon,2022,Female,Q2 - Upper Mid,2022-01,71.3
+Odeon,2022,Female,Q2 - Upper Mid,2022-02,70.9
+Odeon,2022,Female,Q2 - Upper Mid,2022-03,72.9
+Odeon,2022,Female,Q2 - Upper Mid,2022-04,78.4
+Odeon,2022,Female,Q2 - Upper Mid,2022-05,69.9
+Odeon,2022,Female,Q2 - Upper Mid,2022-06,71.0
+Odeon,2022,Female,Q2 - Upper Mid,2022-07,67.5
+Odeon,2022,Female,Q2 - Upper Mid,2022-08,73.4
+Odeon,2022,Female,Q2 - Upper Mid,2022-09,68.9
+Odeon,2022,Female,Q2 - Upper Mid,2022-10,68.9
+Odeon,2022,Female,Q2 - Upper Mid,2022-11,73.2
+Odeon,2022,Female,Q2 - Upper Mid,2022-12,75.6
+Odeon,2022,Female,Q1 - Upper,2022-01,80.0
+Odeon,2022,Female,Q1 - Upper,2022-02,74.1
+Odeon,2022,Female,Q1 - Upper,2022-03,81.7
+Odeon,2022,Female,Q1 - Upper,2022-04,73.7
+Odeon,2022,Female,Q1 - Upper,2022-05,65.5
+Odeon,2022,Female,Q1 - Upper,2022-06,70.7
+Odeon,2022,Female,Q1 - Upper,2022-07,66.3
+Odeon,2022,Female,Q1 - Upper,2022-08,73.9
+Odeon,2022,Female,Q1 - Upper,2022-09,75.8
+Odeon,2022,Female,Q1 - Upper,2022-10,84.1
+Odeon,2022,Female,Q1 - Upper,2022-11,77.3
+Odeon,2022,Female,Q1 - Upper,2022-12,74.6
+Odeon,2023,Male,Q4 - Lower,2023-01,84.4
+Odeon,2023,Male,Q4 - Lower,2023-02,88.8
+Odeon,2023,Male,Q4 - Lower,2023-03,81.4
+Odeon,2023,Male,Q4 - Lower,2023-04,82.7
+Odeon,2023,Male,Q4 - Lower,2023-05,94.4
+Odeon,2023,Male,Q4 - Lower,2023-06,88.8
+Odeon,2023,Male,Q4 - Lower,2023-07,85.1
+Odeon,2023,Male,Q4 - Lower,2023-08,91.0
+Odeon,2023,Male,Q4 - Lower,2023-09,93.3
+Odeon,2023,Male,Q4 - Lower,2023-10,84.6
+Odeon,2023,Male,Q4 - Lower,2023-11,84.7
+Odeon,2023,Male,Q4 - Lower,2023-12,84.1
+Odeon,2023,Male,Q3 - Lower Mid,2023-01,86.0
+Odeon,2023,Male,Q3 - Lower Mid,2023-02,88.4
+Odeon,2023,Male,Q3 - Lower Mid,2023-03,83.7
+Odeon,2023,Male,Q3 - Lower Mid,2023-04,91.1
+Odeon,2023,Male,Q3 - Lower Mid,2023-05,77.8
+Odeon,2023,Male,Q3 - Lower Mid,2023-06,75.4
+Odeon,2023,Male,Q3 - Lower Mid,2023-07,72.8
+Odeon,2023,Male,Q3 - Lower Mid,2023-08,89.1
+Odeon,2023,Male,Q3 - Lower Mid,2023-09,84.9
+Odeon,2023,Male,Q3 - Lower Mid,2023-10,81.4
+Odeon,2023,Male,Q3 - Lower Mid,2023-11,83.1
+Odeon,2023,Male,Q3 - Lower Mid,2023-12,76.0
+Odeon,2023,Male,Q2 - Upper Mid,2023-01,74.2
+Odeon,2023,Male,Q2 - Upper Mid,2023-02,75.4
+Odeon,2023,Male,Q2 - Upper Mid,2023-03,84.1
+Odeon,2023,Male,Q2 - Upper Mid,2023-04,78.1
+Odeon,2023,Male,Q2 - Upper Mid,2023-05,76.3
+Odeon,2023,Male,Q2 - Upper Mid,2023-06,77.4
+Odeon,2023,Male,Q2 - Upper Mid,2023-07,76.4
+Odeon,2023,Male,Q2 - Upper Mid,2023-08,69.5
+Odeon,2023,Male,Q2 - Upper Mid,2023-09,68.5
+Odeon,2023,Male,Q2 - Upper Mid,2023-10,84.6
+Odeon,2023,Male,Q2 - Upper Mid,2023-11,76.1
+Odeon,2023,Male,Q2 - Upper Mid,2023-12,75.7
+Odeon,2023,Male,Q1 - Upper,2023-01,82.8
+Odeon,2023,Male,Q1 - Upper,2023-02,87.1
+Odeon,2023,Male,Q1 - Upper,2023-03,88.0
+Odeon,2023,Male,Q1 - Upper,2023-04,93.2
+Odeon,2023,Male,Q1 - Upper,2023-05,79.3
+Odeon,2023,Male,Q1 - Upper,2023-06,95.4
+Odeon,2023,Male,Q1 - Upper,2023-07,87.0
+Odeon,2023,Male,Q1 - Upper,2023-08,85.6
+Odeon,2023,Male,Q1 - Upper,2023-09,82.7
+Odeon,2023,Male,Q1 - Upper,2023-10,79.5
+Odeon,2023,Male,Q1 - Upper,2023-11,91.9
+Odeon,2023,Male,Q1 - Upper,2023-12,88.1
+Odeon,2023,Female,Q4 - Lower,2023-01,76.7
+Odeon,2023,Female,Q4 - Lower,2023-02,66.3
+Odeon,2023,Female,Q4 - Lower,2023-03,62.9
+Odeon,2023,Female,Q4 - Lower,2023-04,69.1
+Odeon,2023,Female,Q4 - Lower,2023-05,64.8
+Odeon,2023,Female,Q4 - Lower,2023-06,69.6
+Odeon,2023,Female,Q4 - Lower,2023-07,70.4
+Odeon,2023,Female,Q4 - Lower,2023-08,63.8
+Odeon,2023,Female,Q4 - Lower,2023-09,74.4
+Odeon,2023,Female,Q4 - Lower,2023-10,69.6
+Odeon,2023,Female,Q4 - Lower,2023-11,75.8
+Odeon,2023,Female,Q4 - Lower,2023-12,61.2
+Odeon,2023,Female,Q3 - Lower Mid,2023-01,77.6
+Odeon,2023,Female,Q3 - Lower Mid,2023-02,73.4
+Odeon,2023,Female,Q3 - Lower Mid,2023-03,91.8
+Odeon,2023,Female,Q3 - Lower Mid,2023-04,79.3
+Odeon,2023,Female,Q3 - Lower Mid,2023-05,79.0
+Odeon,2023,Female,Q3 - Lower Mid,2023-06,78.8
+Odeon,2023,Female,Q3 - Lower Mid,2023-07,80.0
+Odeon,2023,Female,Q3 - Lower Mid,2023-08,78.2
+Odeon,2023,Female,Q3 - Lower Mid,2023-09,76.1
+Odeon,2023,Female,Q3 - Lower Mid,2023-10,76.2
+Odeon,2023,Female,Q3 - Lower Mid,2023-11,78.8
+Odeon,2023,Female,Q3 - Lower Mid,2023-12,76.3
+Odeon,2023,Female,Q2 - Upper Mid,2023-01,83.9
+Odeon,2023,Female,Q2 - Upper Mid,2023-02,63.6
+Odeon,2023,Female,Q2 - Upper Mid,2023-03,66.6
+Odeon,2023,Female,Q2 - Upper Mid,2023-04,70.7
+Odeon,2023,Female,Q2 - Upper Mid,2023-05,71.1
+Odeon,2023,Female,Q2 - Upper Mid,2023-06,78.0
+Odeon,2023,Female,Q2 - Upper Mid,2023-07,78.4
+Odeon,2023,Female,Q2 - Upper Mid,2023-08,75.7
+Odeon,2023,Female,Q2 - Upper Mid,2023-09,76.2
+Odeon,2023,Female,Q2 - Upper Mid,2023-10,79.6
+Odeon,2023,Female,Q2 - Upper Mid,2023-11,81.1
+Odeon,2023,Female,Q2 - Upper Mid,2023-12,70.3
+Odeon,2023,Female,Q1 - Upper,2023-01,76.9
+Odeon,2023,Female,Q1 - Upper,2023-02,78.6
+Odeon,2023,Female,Q1 - Upper,2023-03,75.9
+Odeon,2023,Female,Q1 - Upper,2023-04,66.6
+Odeon,2023,Female,Q1 - Upper,2023-05,69.6
+Odeon,2023,Female,Q1 - Upper,2023-06,74.7
+Odeon,2023,Female,Q1 - Upper,2023-07,66.2
+Odeon,2023,Female,Q1 - Upper,2023-08,75.8
+Odeon,2023,Female,Q1 - Upper,2023-09,71.1
+Odeon,2023,Female,Q1 - Upper,2023-10,70.4
+Odeon,2023,Female,Q1 - Upper,2023-11,75.8
+Odeon,2023,Female,Q1 - Upper,2023-12,74.5
+Northern Trust,2022,Male,Q4 - Lower,2022-01,66.4
+Northern Trust,2022,Male,Q4 - Lower,2022-02,68.6
+Northern Trust,2022,Male,Q4 - Lower,2022-03,79.2
+Northern Trust,2022,Male,Q4 - Lower,2022-04,63.9
+Northern Trust,2022,Male,Q4 - Lower,2022-05,76.4
+Northern Trust,2022,Male,Q4 - Lower,2022-06,65.6
+Northern Trust,2022,Male,Q4 - Lower,2022-07,78.9
+Northern Trust,2022,Male,Q4 - Lower,2022-08,61.8
+Northern Trust,2022,Male,Q4 - Lower,2022-09,63.9
+Northern Trust,2022,Male,Q4 - Lower,2022-10,69.9
+Northern Trust,2022,Male,Q4 - Lower,2022-11,77.5
+Northern Trust,2022,Male,Q4 - Lower,2022-12,72.5
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-01,82.2
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-02,83.7
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-03,85.5
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-04,75.4
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-05,77.3
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-06,87.7
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-07,84.8
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-08,83.1
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-09,84.1
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-10,85.7
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-11,81.3
+Northern Trust,2022,Male,Q3 - Lower Mid,2022-12,80.1
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-01,52.4
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-02,63.3
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-03,70.6
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-04,64.1
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-05,58.2
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-06,63.2
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-07,68.7
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-08,68.4
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-09,55.5
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-10,63.1
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-11,59.8
+Northern Trust,2022,Male,Q2 - Upper Mid,2022-12,64.6
+Northern Trust,2022,Male,Q1 - Upper,2022-01,68.4
+Northern Trust,2022,Male,Q1 - Upper,2022-02,71.6
+Northern Trust,2022,Male,Q1 - Upper,2022-03,74.1
+Northern Trust,2022,Male,Q1 - Upper,2022-04,67.9
+Northern Trust,2022,Male,Q1 - Upper,2022-05,72.4
+Northern Trust,2022,Male,Q1 - Upper,2022-06,67.7
+Northern Trust,2022,Male,Q1 - Upper,2022-07,68.4
+Northern Trust,2022,Male,Q1 - Upper,2022-08,64.5
+Northern Trust,2022,Male,Q1 - Upper,2022-09,66.9
+Northern Trust,2022,Male,Q1 - Upper,2022-10,64.7
+Northern Trust,2022,Male,Q1 - Upper,2022-11,66.6
+Northern Trust,2022,Male,Q1 - Upper,2022-12,76.8
+Northern Trust,2022,Female,Q4 - Lower,2022-01,87.4
+Northern Trust,2022,Female,Q4 - Lower,2022-02,75.5
+Northern Trust,2022,Female,Q4 - Lower,2022-03,77.5
+Northern Trust,2022,Female,Q4 - Lower,2022-04,77.9
+Northern Trust,2022,Female,Q4 - Lower,2022-05,80.0
+Northern Trust,2022,Female,Q4 - Lower,2022-06,69.4
+Northern Trust,2022,Female,Q4 - Lower,2022-07,77.0
+Northern Trust,2022,Female,Q4 - Lower,2022-08,73.7
+Northern Trust,2022,Female,Q4 - Lower,2022-09,68.5
+Northern Trust,2022,Female,Q4 - Lower,2022-10,81.9
+Northern Trust,2022,Female,Q4 - Lower,2022-11,75.2
+Northern Trust,2022,Female,Q4 - Lower,2022-12,78.2
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-01,62.1
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-02,71.1
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-03,59.1
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-04,71.3
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-05,65.8
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-06,59.4
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-07,65.4
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-08,67.1
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-09,65.4
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-10,54.4
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-11,58.6
+Northern Trust,2022,Female,Q3 - Lower Mid,2022-12,61.0
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-01,80.9
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-02,86.4
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-03,92.8
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-04,88.1
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-05,91.6
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-06,90.6
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-07,94.0
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-08,92.8
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-09,85.3
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-10,90.7
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-11,79.9
+Northern Trust,2022,Female,Q2 - Upper Mid,2022-12,87.2
+Northern Trust,2022,Female,Q1 - Upper,2022-01,91.8
+Northern Trust,2022,Female,Q1 - Upper,2022-02,90.7
+Northern Trust,2022,Female,Q1 - Upper,2022-03,91.0
+Northern Trust,2022,Female,Q1 - Upper,2022-04,83.2
+Northern Trust,2022,Female,Q1 - Upper,2022-05,84.2
+Northern Trust,2022,Female,Q1 - Upper,2022-06,94.9
+Northern Trust,2022,Female,Q1 - Upper,2022-07,89.4
+Northern Trust,2022,Female,Q1 - Upper,2022-08,93.0
+Northern Trust,2022,Female,Q1 - Upper,2022-09,89.8
+Northern Trust,2022,Female,Q1 - Upper,2022-10,89.8
+Northern Trust,2022,Female,Q1 - Upper,2022-11,94.3
+Northern Trust,2022,Female,Q1 - Upper,2022-12,87.0
+Northern Trust,2023,Male,Q4 - Lower,2023-01,73.9
+Northern Trust,2023,Male,Q4 - Lower,2023-02,71.0
+Northern Trust,2023,Male,Q4 - Lower,2023-03,62.8
+Northern Trust,2023,Male,Q4 - Lower,2023-04,72.5
+Northern Trust,2023,Male,Q4 - Lower,2023-05,73.1
+Northern Trust,2023,Male,Q4 - Lower,2023-06,69.8
+Northern Trust,2023,Male,Q4 - Lower,2023-07,75.7
+Northern Trust,2023,Male,Q4 - Lower,2023-08,66.1
+Northern Trust,2023,Male,Q4 - Lower,2023-09,67.0
+Northern Trust,2023,Male,Q4 - Lower,2023-10,57.1
+Northern Trust,2023,Male,Q4 - Lower,2023-11,74.2
+Northern Trust,2023,Male,Q4 - Lower,2023-12,71.1
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-01,87.3
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-02,96.8
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-03,97.4
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-04,86.9
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-05,87.4
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-06,88.1
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-07,82.8
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-08,84.9
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-09,84.5
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-10,85.7
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-11,89.3
+Northern Trust,2023,Male,Q3 - Lower Mid,2023-12,90.7
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-01,66.2
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-02,74.9
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-03,70.7
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-04,67.4
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-05,83.1
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-06,68.2
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-07,77.4
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-08,79.6
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-09,63.7
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-10,71.9
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-11,68.9
+Northern Trust,2023,Male,Q2 - Upper Mid,2023-12,68.5
+Northern Trust,2023,Male,Q1 - Upper,2023-01,62.4
+Northern Trust,2023,Male,Q1 - Upper,2023-02,71.5
+Northern Trust,2023,Male,Q1 - Upper,2023-03,72.7
+Northern Trust,2023,Male,Q1 - Upper,2023-04,62.7
+Northern Trust,2023,Male,Q1 - Upper,2023-05,61.4
+Northern Trust,2023,Male,Q1 - Upper,2023-06,68.0
+Northern Trust,2023,Male,Q1 - Upper,2023-07,62.8
+Northern Trust,2023,Male,Q1 - Upper,2023-08,68.8
+Northern Trust,2023,Male,Q1 - Upper,2023-09,66.6
+Northern Trust,2023,Male,Q1 - Upper,2023-10,58.0
+Northern Trust,2023,Male,Q1 - Upper,2023-11,73.3
+Northern Trust,2023,Male,Q1 - Upper,2023-12,74.6
+Northern Trust,2023,Female,Q4 - Lower,2023-01,60.9
+Northern Trust,2023,Female,Q4 - Lower,2023-02,65.7
+Northern Trust,2023,Female,Q4 - Lower,2023-03,65.5
+Northern Trust,2023,Female,Q4 - Lower,2023-04,68.2
+Northern Trust,2023,Female,Q4 - Lower,2023-05,58.5
+Northern Trust,2023,Female,Q4 - Lower,2023-06,63.3
+Northern Trust,2023,Female,Q4 - Lower,2023-07,54.0
+Northern Trust,2023,Female,Q4 - Lower,2023-08,56.5
+Northern Trust,2023,Female,Q4 - Lower,2023-09,67.2
+Northern Trust,2023,Female,Q4 - Lower,2023-10,58.0
+Northern Trust,2023,Female,Q4 - Lower,2023-11,58.5
+Northern Trust,2023,Female,Q4 - Lower,2023-12,62.7
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-01,64.0
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-02,67.7
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-03,66.5
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-04,72.5
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-05,79.2
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-06,64.0
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-07,64.2
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-08,71.8
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-09,70.0
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-10,75.8
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-11,69.5
+Northern Trust,2023,Female,Q3 - Lower Mid,2023-12,64.8
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-01,88.6
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-02,86.0
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-03,86.0
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-04,87.5
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-05,86.4
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-06,88.2
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-07,89.0
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-08,91.6
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-09,80.7
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-10,86.3
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-11,82.1
+Northern Trust,2023,Female,Q2 - Upper Mid,2023-12,79.8
+Northern Trust,2023,Female,Q1 - Upper,2023-01,84.1
+Northern Trust,2023,Female,Q1 - Upper,2023-02,80.3
+Northern Trust,2023,Female,Q1 - Upper,2023-03,82.4
+Northern Trust,2023,Female,Q1 - Upper,2023-04,88.7
+Northern Trust,2023,Female,Q1 - Upper,2023-05,83.3
+Northern Trust,2023,Female,Q1 - Upper,2023-06,82.5
+Northern Trust,2023,Female,Q1 - Upper,2023-07,75.5
+Northern Trust,2023,Female,Q1 - Upper,2023-08,86.0
+Northern Trust,2023,Female,Q1 - Upper,2023-09,85.5
+Northern Trust,2023,Female,Q1 - Upper,2023-10,93.1
+Northern Trust,2023,Female,Q1 - Upper,2023-11,80.8
+Northern Trust,2023,Female,Q1 - Upper,2023-12,83.4
