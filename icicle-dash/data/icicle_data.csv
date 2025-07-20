@@ -1,0 +1,87 @@
+Region,SubCategory,Manufacturer,Variant,Value
+US,Healthcare,Group A,Type 1,202
+US,Healthcare,Group B,Type 2,448
+US,Healthcare,Group C,Type 3,370
+US,Healthcare,Group D,Type 1,206
+US,Healthcare,Group E,Type 2,171
+US,Real Estate,Group D,Type 2,313
+US,Real Estate,Group D,Type 1,350
+US,Real Estate,Group A,Type 1,303
+US,Real Estate,Group A,Type 2,292
+US,Real Estate,Group A,Type 3,301
+US,Industrials,Group A,Type 1,278
+US,Industrials,Group A,Type 2,303
+US,Industrials,Group A,Type 3,228
+US,Industrials,Group E,Type 2,320
+US,Industrials,Group E,Type 3,341
+US,Industrials,Group E,Type 1,285
+US,Basic Materials,Group A,Type 3,298
+US,Basic Materials,Group A,Type 1,262
+US,Basic Materials,Group C,Type 1,261
+US,Basic Materials,Group C,Type 2,273
+US,Basic Materials,Group C,Type 3,299
+US,Healthcare,Group E,Type 1,438
+US,Healthcare,Group E,Type 3,359
+US,Healthcare,Group E,Type 2,310
+US,Healthcare,Group C,Type 1,344
+US,Healthcare,Group C,Type 2,339
+US,Healthcare,Group C,Type 3,432
+US,Healthcare,Group B,Type 3,313
+US,Healthcare,Group B,Type 2,382
+US,Healthcare,Group B,Type 1,323
+UK,Accessories,Group B,Type 2,304
+UK,Accessories,Group B,Type 3,297
+UK,Accessories,Group C,Type 2,286
+UK,Accessories,Group C,Type 1,331
+UK,Accessories,Group E,Type 2,254
+UK,Accessories,Group E,Type 3,289
+UK,Consumer Cyclical,Group E,Type 3,268
+UK,Consumer Cyclical,Group E,Type 1,291
+UK,Consumer Cyclical,Group E,Type 2,279
+UK,Consumer Cyclical,Group B,Type 2,221
+UK,Consumer Cyclical,Group B,Type 3,331
+UK,Consumer Cyclical,Group B,Type 1,197
+UK,Technology,Group E,Type 1,353
+UK,Technology,Group E,Type 2,468
+UK,Technology,Group B,Type 1,253
+UK,Technology,Group B,Type 3,230
+UK,Financial Services,Group C,Type 3,285
+UK,Financial Services,Group C,Type 1,273
+UK,Financial Services,Group C,Type 2,225
+UK,Financial Services,Group B,Type 3,306
+UK,Financial Services,Group B,Type 2,330
+UK,Financial Services,Group E,Type 1,345
+UK,Financial Services,Group E,Type 3,316
+UK,Supplies,Group A,Type 3,284
+UK,Supplies,Group A,Type 1,333
+UK,Supplies,Group C,Type 2,232
+UK,Supplies,Group C,Type 3,249
+UK,Supplies,Group B,Type 2,397
+UK,Supplies,Group B,Type 1,292
+UK,Supplies,Group B,Type 3,254
+EMEA,Misc A,Group C,Type 1,259
+EMEA,Misc A,Group C,Type 3,340
+EMEA,Misc A,Group B,Type 2,247
+EMEA,Misc A,Group B,Type 3,303
+EMEA,Misc B,Group B,Type 1,423
+EMEA,Misc B,Group B,Type 3,175
+EMEA,Misc B,Group C,Type 1,374
+EMEA,Misc B,Group C,Type 2,289
+EMEA,Misc B,Group C,Type 3,265
+EMEA,Misc B,Group A,Type 1,370
+EMEA,Misc B,Group A,Type 2,229
+EMEA,Misc C,Group B,Type 1,339
+EMEA,Misc C,Group B,Type 2,321
+EMEA,Misc C,Group B,Type 3,245
+EMEA,Misc C,Group D,Type 2,265
+EMEA,Misc C,Group D,Type 1,332
+EMEA,Misc C,Group D,Type 3,238
+EMEA,Misc C,Group A,Type 2,321
+EMEA,Misc C,Group A,Type 3,176
+EMEA,Misc C,Group A,Type 1,324
+EMEA,Misc D,Group D,Type 3,346
+EMEA,Misc D,Group D,Type 1,268
+EMEA,Misc D,Group D,Type 2,273
+EMEA,Misc D,Group E,Type 3,219
+EMEA,Misc D,Group E,Type 2,309
+EMEA,Misc D,Group E,Type 1,312

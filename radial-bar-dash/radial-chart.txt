@@ -1,0 +1,11 @@
+Reference image:
+
+https://images.prismic.io/plotly-marketing-website-2/Zze_IK8jQArT07rN_RepairCafeDashboard.jpg?auto=format,compress
+
+Reference website: https://natatsypora.pythonanywhere.com/
+
+Prompt:
+“Show a breakdown of repair outcomes and top products presented at a repair cafe, including status percentages, category-level success rates, and most frequent items brought in.”
+
+
+

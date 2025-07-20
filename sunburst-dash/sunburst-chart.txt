@@ -1,0 +1,55 @@
+Create a multi-level sunburst chart for hierarchical data exploration.
+
+
+Reference image:
+https://miro.medium.com/v2/resize:fit:740/1*abaUl9jirah63wvIP0AXsQ.png
+
+✅ Prompt:
+"Create a 6-level sunburst chart to visualize hierarchical product sales data, starting from the total level and drilling down through year, gender, category, subcategory, and model."
+
+
+
+
+Structure:
+	5-level hierarchy:
+	Year → Gender → Category → Subcategory → Model
+
+	Center circle:
+
+		White background
+
+		Displays:
+			39%
+			Female
+			$23.466.508,83 (formatted as European currency
+			
+			
+			
+✅ What needs to be fixed:
+	Center box should be circular (not rectangular)
+
+	Solution: use a transparent root node (via dummy root) so Plotly leaves a true circular hole in the middle.
+
+	First visible data ring (e.g., Year) must start from the edge of the white center
+
+	Solution: the hierarchy must start under a dummy root (e.g., "Total") — this shifts Year outward.
+
+
+
+✅ Updated Plan:
+		
+Render a 6-level hierarchy: Total → Year → Gender → Category → Subcategory → Model
+
+We’ll:
+
+	Add a dummy root node ("Total")
+
+	Group the entire dataset under "Total" in a new column
+
+	Render a 6-level hierarchy: Total → Year → Gender → Category → Subcategory → Model
+
+	Set root_color="white" so the middle is circular and white
+
+	Overlay an annotation for the center text
+
+

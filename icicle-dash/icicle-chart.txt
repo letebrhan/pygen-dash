@@ -1,0 +1,12 @@
+Reference image:
+
+https://quantizeanalytics.co.uk//wp-content/uploads/2024/03/Tableau-Icicle-Chart.png
+
+
+
+Prompt:
+Can you show me how our product categories break down by region and manufacturer type?
+
+
+
+
