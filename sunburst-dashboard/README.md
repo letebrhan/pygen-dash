@@ -75,7 +75,7 @@ This project visualizes hierarchical product sales data using an interactive 6-l
 
 ## 📄 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 Letebrhan Alemayoh
 
 ---
 
